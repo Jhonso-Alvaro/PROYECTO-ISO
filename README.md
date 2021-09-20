@@ -14,4 +14,4 @@ Requerimientos funcionales
 - Definir la arquitectura que consideren ideal para esos aspectos y justificar el porque.
 - Diagramar su modelo base
 
-Tiempo hasta la siguiente cclase antes de iniciar la mismas
+Tiempo hasta la siguiente clase antes de iniciar la mismas
