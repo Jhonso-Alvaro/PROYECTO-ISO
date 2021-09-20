@@ -1,0 +1,2 @@
+# PROYECTO-ISO
+El foro consiste en realizar un repaso sobre las definición de arquitectas de software y la funcionalidad e importancia en el proceso de desarrollar software.  y el material de apoyo al tema y en base a ello, considerar que la Universidad Unifranz requiere automatizar la tarea de asignar espacio en su estacionamiento a su persona de planta, considerando que existe una jerarquía institucional, donde la jerarquía docente tiene derecho a ocupar el 60 % de los espacios con horario rotativo, es decir tomar en cuenta su horario.
